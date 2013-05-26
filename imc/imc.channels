@@ -1,0 +1,28 @@
+#IMCCHAN
+ChanName   fantom:ichat
+ChanLocal  ichat
+ChanRegF   ~R[~Yichat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yichat~R] ~c%s %s
+ChanSocF   ~R[~Yichat~R] ~c%s
+ChanLevel  4
+End
+
+#IMCCHAN
+ChanName   fantom:pchat
+ChanLocal  pchat
+ChanRegF   ~R[~Ypchat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ypchat~R] ~c%s %s
+ChanSocF   ~R[~Ypchat~R] ~c%s
+ChanLevel  2
+End
+
+#IMCCHAN
+ChanName   fantom:icode
+ChanLocal  icode
+ChanRegF   ~R[~Yicode~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yicode~R] ~c%s %s
+ChanSocF   ~R[~Yicode~R] ~c%s
+ChanLevel  5
+End
+
+#END

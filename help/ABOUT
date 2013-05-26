@@ -1,0 +1,7 @@
+#RCMud is a C and C++ mud written from Jobo's Socketmud. It's main
+reason is to better learn the c/c++ language and also to try and make
+a completely new codebase from scratch. Even though it's not entirely
+from scratch being barebones, little or nothing in it except for a socket
+connect controll and command interpreter built in. It can be widely built upon.
+
+#n
